@@ -1,5 +1,7 @@
 data/MNIST/*
 data/hymenoptera_data/*
+data/cifar-10-batches-py/*
+data/cifar-10-python.tar.gz
 todo.txt
 
 # Byte-compiled / optimized / DLL files
