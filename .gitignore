@@ -1,4 +1,6 @@
 data/MNIST/*
+data/hymenoptera_data/*
+todo.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
